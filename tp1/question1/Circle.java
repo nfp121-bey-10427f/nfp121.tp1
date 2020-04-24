@@ -110,7 +110,7 @@ public class Circle {
     }
 
     /**
-     * Slowly move the circle vertically by 'distance' pixels.
+     * Slowly    move the circle vertically by 'distance' pixels.
      */
     public void slowMoveVertical(int distance) {
         int delta;
